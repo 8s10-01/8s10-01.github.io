@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12px;
+}
+
+header {
+    border-top: 1px solid #e7e7e7;
+    background-color: #000000;
+    text-align: center;
+}
+
+.sitename {
+    padding: 20px 0;
+    font-size: 30px;
+    color: #ffffff;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+h3 {
+    font-size: 20px;
+}
+
+dl {
+    font-size: 18px;
+}
+
+.thumbnail ol li {
+    margin-left: 15px;
+}
+footer {
+    border-top: 1px solid #e7e7e7;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+.copyright {
+    padding: 20px 0;
+    font-size: 12px;
+    color: #666;
+}
